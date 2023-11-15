@@ -6,9 +6,16 @@
 //
 
 #include <iostream>
+#include "bankAccount.h"
+using namespace std;
+
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    
+    bankAccount person1("K","A");
+    person1.credit(400);
+    person1.displayProfile();
+    
+    
     return 0;
 }

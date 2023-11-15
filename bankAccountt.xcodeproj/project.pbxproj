@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		8CEE6CE42B03F9A500592F90 /* bankAccountt */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = bankAccountt; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CEE6CE72B03F9A500592F90 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		8CEE6CEE2B03F9CC00592F90 /* bankAccount.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = bankAccount.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8CEE6CE72B03F9A500592F90 /* main.cpp */,
+				8CEE6CEE2B03F9CC00592F90 /* bankAccount.h */,
 			);
 			path = bankAccountt;
 			sourceTree = "<group>";
